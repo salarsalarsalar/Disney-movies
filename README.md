@@ -17,17 +17,15 @@
 
 A report containing following items:
 
-1. Snapshot of the Database Schema designed by your group. The database should contain 4 or more tables. A detailed description of the database schema is required so that a reader could know the idea behind creation of each table.
+1. Keys and attributes of each table should be clearly shown along with their datatypes.
     
-2. Keys and attributes of each table should be clearly shown along with their datatypes.
+2. SQL queries to create database, tables, keys, and attributes.
     
-3. SQL queries to create database, tables, keys, and attributes.
+3. Code of SQL*Loader to load the data into the created tables. Add snapshots of codes (both creation and loading) on pdf file.
     
-4. Code of SQL*Loader to load the data into the created tables. Add snapshots of codes (both creation and loading) on pdf file.
+4. Submit .txt files that has all code for creating and loading of tables
     
-5. Submit .txt files that has all code for creating and loading of tables
-    
-6. SQL queries and their result along with the 2-3 liner description which tell the purpose of each query and tells what information we get from each query and obtained results (attach snapshots of output). You can create queries of your own but they should be your own queries and should not be copied from other groups. The count of 18 queries is divided as below:
+5. SQL queries and their result along with the 2-3 liner description which tell the purpose of each query and tells what information we get from each query and obtained results (attach snapshots of output). You can create queries of your own but they should be your own queries and should not be copied from other groups. The count of 18 queries is divided as below:
     
     i. 3 Queries which use various aggregation functions
     
@@ -53,15 +51,6 @@ A report containing following items:
 4- Display all the movies/tv shows in which actor “Johnny Depp” has worked
 
 7. Also make an interface using php which will take the queries from user and display the answers of the query. There will be a single webpage. Attach all the snap shots of webpage and results on pdf document
-    
-
-### Note:
-
-1. A group is likely to get more marks based on nicely written report, well presented material, and technically sound queries.
-    
-2. Learn SQL* Loader yourself. It is very easy to learn and use.
-    
-3. Individual work or group of 1 is acceptable in extreme situations and with prior written (by email) permission of theory course teacher. Such permission should be sought at least 5 days before the deadline of the assignment. The reply from the course teacher must be placed as a screenshot in the report to show the permission
     
 
 ## Report
