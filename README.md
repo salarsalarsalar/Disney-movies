@@ -50,7 +50,7 @@ A report containing following items:
 
 4- Display all the movies/tv shows in which actor “Johnny Depp” has worked
 
-7. Also make an interface using php which will take the queries from user and display the answers of the query. There will be a single webpage. Attach all the snap shots of webpage and results on pdf document
+5. Also make an interface using php which will take the queries from user and display the answers of the query. There will be a single webpage. Attach all the snap shots of webpage and results on pdf document
     
 
 ## Report
